@@ -88,4 +88,6 @@ with tab3:
             else:
                 st.error("Das ist Falsch")
         if st.button("Nächste Frage:"):
-            st.session_state.intentos += 1
+           st.session_state.intentos += 1
+           st.session_state.x = random.randint(0, len(Lista) - 1)
+           st.rerun()
