@@ -87,5 +87,5 @@ with tab3:
                 st.session_state.aciertos += 1
             else:
                 st.error("Das ist Falsch")
-        if st.button("Nächte Frage:"):
+        if st.button("Nächste Frage:"):
             st.session_state.intentos += 1
