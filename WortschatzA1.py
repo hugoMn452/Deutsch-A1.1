@@ -12,7 +12,7 @@ Traduccion1 = ["Nombre", "Primer nombre", "Apellido", "Ciudad", "Dirección de E
                "Maleta"]
 Lista2 = ["das Hobby", "das Buch", "das Café", "der Computer", "die Verabredung", "der Freund", "die Leute", "der Fußball",
           "das Kino", "das Theater", "das Museum", "die Musik", "das Schwimmbad", "das Foto", "der Beruf", "der Artz", "das Krankenhaus",
-          "der Friseur", "die Handwerker", "der Journalist", "der Kellner", "der Koch", "der Krankenpfleger", "die Krankenschwester", "das Restaurant", "der Kollege",
+          "der Friseur", "der Handwerker", "der Journalist", "der Kellner", "der Koch", "der Krankenpfleger", "die Krankenschwester", "das Restaurant", "der Kollege",
           "die Firma", "die Schule", "der Kurs", "die Universität", "das Seminar", "das Taxi", "das Auto", "der Abend", "der Nachmittag",
           "der Moment", "die Stunde", "der Tag", "die Woche", "das Wochenende", "das Jahr", "die Information", "der Familienname", "die Adresse",
           "die Postleitzahl", "der Wohnort", "das Beispiel", "der Schlüssel", "das Wörterbuch", "das Zimmer"]
