@@ -4,7 +4,7 @@ import random
 
 from streamlit.runtime.state import session_state
 
-Lista1 = ["der Name", "der Vorname", "Nachname", "die Stadt", "die E-Mail Adresse", "die Handynummer", "die Telefonnummer",
+Lista1 = ["der Name", "der Vorname", "der Nachname", "die Stadt", "die E-Mail Adresse", "die Handynummer", "die Telefonnummer",
           "die Sprache", "die Zahl", "die Antwort", "der Partner", "die Partnerin", "die Person", "das Wort", "der Text", "die Autobahn", "die Flasche", "der Kindergarten",
           "der Koffer"]
 Traduccion1 = ["Nombre", "Primer nombre", "Apellido", "Ciudad", "Dirección de E-Mail", "Número de celular", "Número telefónico",
